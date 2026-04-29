@@ -129,4 +129,4 @@ This project demonstrates how to design and deploy a **highly scalable and low-l
 ## 🔗 Author
 
 **Dhanashri Patil**
-AWS | Full Stack Developer | AI/ML Enthusiast
+
